@@ -1,0 +1,6 @@
+﻿  MyForm.cpp
+c:\users\greg\source\repos\greathouse\project1\project1\MyForm.h(1103): warning C4804: '~': unsafe use of type 'bool' in operation
+c:\users\greg\source\repos\greathouse\project1\project1\MyForm.h(1105): warning C4804: '~': unsafe use of type 'bool' in operation
+  MyUserControl.cpp
+  Generating Code...
+  Project1.vcxproj -> C:\Users\Greg\source\repos\Greathouse\Project1\Debug\Project1.exe
